@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on LLM
 
+Thanks for visiting
 <!--
 **m2masari/m2masari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
